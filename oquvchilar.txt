@@ -1,0 +1,2 @@
+Ali;Matematika:5,Python:5,Fizika:4
+Vali;Matematika:3,Python:4,Fizika:3
